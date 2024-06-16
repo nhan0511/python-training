@@ -4,3 +4,4 @@ s = input("input: ")
 print(n)
 print(z)
 print(s)
+

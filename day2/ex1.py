@@ -4,3 +4,4 @@ print(type(False))
 print(type(0.0))
 print(type(.5))
 print(type(4 + 5j))
+
